@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+					Text("Text from 01Test, no2")
 					Color.blue
 					Color.pink
             Image(systemName: "globe")
